@@ -65,6 +65,13 @@ A passionate Computer Science Engineering student and Web Developer from India ð
   </a>
 </p>
 
+---
+
+## ðŸ“ˆ GitHub Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kush1214-a&theme=github_dark" />
+</p>
 
 ---
 
