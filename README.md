@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Web+Developer;MERN+Stack+Developer;Always+Learning+New+Technologies" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kush Kumar</h1>
 
 <h3 align="center">
@@ -60,4 +64,12 @@ A passionate Computer Science Engineering student and Web Developer from India �
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kush1214-a&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
