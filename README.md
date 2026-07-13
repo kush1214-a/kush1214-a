@@ -63,13 +63,17 @@ A passionate Computer Science Engineering student and Web Developer from India �
   <a href="https://www.linkedin.com/in/kush-kumar-60a4a428b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
 </p>
+
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kush1214-a&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kush1214-a/kush1214-a/gh-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kush1214-a/kush1214-a/gh-pages/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kush1214-a/kush1214-a/gh-pages/github-contribution-grid-snake.svg">
+  </picture>
 </p>
