@@ -12,7 +12,6 @@ A passionate Computer Science Engineering student and Web Developer from India �
   <img src="https://komarev.com/ghpvc/?username=kush1214-a&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -32,7 +31,6 @@ A passionate Computer Science Engineering student and Web Developer from India �
 
 - ⚡ Fun fact: I enjoy learning new technologies and building real-world projects
 
-- ---
 
 ## 🛠️ Languages and Tools
 
@@ -40,13 +38,6 @@ A passionate Computer Science Engineering student and Web Developer from India �
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,aws,vscode" />
 </p>
 
----
-
----
-
----
-
----
 
 ## 🤝 Connect With Me
 
@@ -64,16 +55,42 @@ A passionate Computer Science Engineering student and Web Developer from India �
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+---
+
+## 🚀 My Projects
+
+### 🏏 [IPL](https://github.com/kush1214-a/IPL)
+A JavaScript-based IPL web application project.
+
+### 🖥️ [IPL Frontend](https://github.com/kush1214-a/IPL-frontend)
+Frontend interface for the IPL web application built using JavaScript.
+
+### 💻 [Code Alpha](https://github.com/kush1214-a/Code-Alpha)
+A collection of responsive web development projects built using HTML, CSS, and JavaScript.
+
+### ☕ [Java DSA](https://github.com/kush1214-a/Java_DSA)
+Solutions and practice problems based on Data Structures and Algorithms using Java.
+
+### 🌐 [MYProjects](https://github.com/kush1214-a/MYProjects)
+A collection of my academic, personal, and web development projects.
+
+### ⚡ [JavaScript Projects](https://github.com/kush1214-a/java)
+A collection of projects and programs developed using JavaScript.
 
 ---
 
-## 📈 GitHub Activity Overview
+## 👨‍💻 Coding Profiles
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kush1214-a&theme=github_dark" />
+  <a href="https://leetcode.com/u/kush1214/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/kush1214/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
----
 
 ## 🐍 My Contribution Snake
 
